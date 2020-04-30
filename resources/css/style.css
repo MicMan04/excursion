@@ -17,3 +17,14 @@ body {
     font-weight: 300;
     color: #ffffff;
 }
+h4 {
+    color: gray;
+    font-size: 21px;
+}
+.subheader--info {
+    color: #ffffff;
+    }
+    .copyright {
+        color: gray;
+        text-align: right;
+    }
